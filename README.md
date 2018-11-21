@@ -1,1 +1,1 @@
-# aff
+# affiliate for nutpanda
